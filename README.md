@@ -1,0 +1,3 @@
+# Clean Code Bot
+
+Clean Code Bot is a Python CLI tool that takes a source code file as input and produces a cleaner, improved version of that code following clean code practices and SOLID principles. The tool analyzes the provided file, identifies issues related to readability, structure, and documentation, and generates a refactored version with improved naming, formatting, and technical documentation. The resulting code is automatically written to a new file in the same directory with an `_after` suffix, allowing users to easily compare the original and improved versions. This project demonstrates how AI can assist developers by automating code review and refactoring tasks to improve maintainability and overall code quality.
